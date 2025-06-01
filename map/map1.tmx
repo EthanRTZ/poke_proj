@@ -2,12 +2,12 @@
 <map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="100" height="75" tilewidth="16" tileheight="16" infinite="0" nextlayerid="11" nextobjectid="30">
  <tileset firstgid="1" source="tilset/Route 103.tsx"/>
  <tileset firstgid="1681" source="tilset/til_pok.tsx"/>
- <tileset firstgid="5937" source="../../exemple/assets/map/tileset/indoor.tsx"/>
- <tileset firstgid="10729" source="../../exemple/assets/map/tileset/interieur1.tsx"/>
- <tileset firstgid="15353" source="../../exemple/assets/map/tileset/tileset4g.tsx"/>
- <tileset firstgid="36353" source="../../exemple/assets/map/tileset/pokemon-center.tsx"/>
- <tileset firstgid="37221" source="../../exemple/assets/map/tileset/water.tsx"/>
- <tileset firstgid="37269" source="til_pok.tsx"/>
+ <tileset firstgid="5937" source="/home/slidium/Documents/poke_proj/map/tilset/indoor.tsx"/>
+ <tileset firstgid="10729" source="/home/slidium/Documents/poke_proj/map/tilset/interieur1.tsx"/>
+ <tileset firstgid="15353" source="/home/slidium/Documents/poke_proj/map/tilset/tileset4g.tsx"/>
+ <tileset firstgid="36353" source="/home/slidium/Documents/poke_proj/map/tilset/pokemon-center.tsx"/>
+ <tileset firstgid="37221" source="/home/slidium/Documents/poke_proj/map/tilset/water.tsx"/>
+ <tileset firstgid="37269" source="/home/slidium/Documents/poke_proj/map/tilset/water.tsx"/>
  <layer id="1" name="herbe" width="100" height="75">
   <data encoding="csv">
 1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,1681,

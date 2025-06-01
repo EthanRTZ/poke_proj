@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="24">
- <tileset firstgid="1" source="../../exemple/assets/map/tileset/interieur1.tsx"/>
- <tileset firstgid="4625" source="../../exemple/assets/map/tileset/pokemon-center.tsx"/>
+ <tileset firstgid="1" source="/home/slidium/Documents/poke_proj/map/tilset/interieur1.tsx"/>
+ <tileset firstgid="4625" source="/home/slidium/Documents/poke_proj/map/tilset/pokemon-center.tsx"/>
  <layer id="1" name="Calque de Tuiles 1" width="10" height="10">
   <data encoding="csv">
 0,410,410,410,410,410,410,410,410,0,

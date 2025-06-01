@@ -93,7 +93,7 @@ class MapManager:
 
     def register_map(self, name, portals=[], npcs=[]):
         # Charger la carte classique
-        tmx_data = pytmx.util_pygame.load_pygame(f"map/{name}.tmx") 
+        tmx_data = pytmx.util_pygame.load_pygame(f"/home/slidium/Documents/poke_proj/map/{name}.tmx")
         map_data = pyscroll.data.TiledMapData(tmx_data)
         map_layer = pyscroll.orthographic.BufferedRenderer(map_data, self.screen.get_size())
         map_layer.zoom = 4

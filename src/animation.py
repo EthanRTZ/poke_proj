@@ -4,7 +4,7 @@ class AnimateSprite(pygame.sprite.Sprite):
     
     def __init__(self, name, colorkey=(0, 0, 0),taille = 32):
         super().__init__()
-        self.sprite_sheet = pygame.image.load(f"sprites/{name}.png").convert()
+        self.sprite_sheet = pygame.image.load(f"/home/slidium/Documents/poke_proj/sprites/{name}.png").convert()
         self.animation_index = 0
         self.clock = 0
         self.colorkey = colorkey

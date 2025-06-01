@@ -6,12 +6,12 @@ class DialogBox:
     Y_POSITION = 470
 
     def __init__(self):
-        self.box = pygame.image.load('dialogs/dialog_box.png')
+        self.box = pygame.image.load('/home/slidium/Documents/poke_proj/dialogs/dialog_box.png')
         self.box = pygame.transform.scale(self.box, (700, 100))
         self.texts = []
         self.text_index = 0
         self.letter_index = 0
-        self.font = pygame.font.Font("dialogs/dialog_font.ttf", 18)
+        self.font = pygame.font.Font("/home/slidium/Documents/poke_proj/dialogs/dialog_font.ttf", 18)
         self.reading = False
 
     def execute(self, dialog=[]):

@@ -7,7 +7,7 @@ class GestionMusique:
 
     def jouer_musique(self, nom_fichier):
         if self.musique_actuelle != nom_fichier:
-            pygame.mixer.music.load(f"music/{nom_fichier}")
+            pygame.mixer.music.load(f"/home/slidium/Documents/poke_proj/music/{nom_fichier}")
             pygame.mixer.music.play(-1)
             self.musique_actuelle = nom_fichier
 
